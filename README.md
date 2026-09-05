@@ -146,7 +146,8 @@ Generated PDFs
 <img width="884" height="345" alt="image" src="https://github.com/user-attachments/assets/3d92d0f3-476c-4f64-9689-6ac0ad148b21" />
 
 PDF Path Mapping
-![PDF Path Mapping](screenshots/pdf-path-mapping.png)
+<img width="1636" height="217" alt="image" src="https://github.com/user-attachments/assets/a0d5d3b5-642e-4c27-9fc4-ca349e4caad6" />
+
 Email Preview
 ![Email Preview](screenshots/email-preview.png)
 Excel Ribbon Automation
