@@ -149,7 +149,8 @@ PDF Path Mapping
 <img width="1636" height="217" alt="image" src="https://github.com/user-attachments/assets/a0d5d3b5-642e-4c27-9fc4-ca349e4caad6" />
 
 Email Preview
-![Email Preview](screenshots/email-preview.png)
+<img width="1439" height="1093" alt="image" src="https://github.com/user-attachments/assets/90d35797-3f9d-42b0-9b13-7386f642c052" />
+
 Excel Ribbon Automation
 ![Excel Ribbon Automation](screenshots/excel-ribbon-automation.png)
 ▶️ How to Use
