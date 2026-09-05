@@ -222,12 +222,84 @@ Macros may require appropriate Excel macro/security settings.
 Always review generated emails before sending them in a real-world
 workflow.
 
-👤 Author
+👤 **Author**
+
 Anuj Choudhary
+
 AI-Assisted Excel & VBA Automation Project
 
-⭐ Project Purpose
+⭐ **Project Purpose**
+
 A practical demonstration of how AI-assisted development can be 
 combined with Excel VBA to automate a real-world administrative
 workflow involving document generation, file management, and
 personalized email communication.
+
+🌟 **About Me**
+Hi there, I'm Anuj Choudhary 👋
+
+🎓 M.Pharm Research Scholar  at **Indian Institute of Technology (BHU), Varanasi**.
+
+I am passionate about **Data Analytics, Business Intelligence, and Data-Driven Decision Making**. My goal is to combine my strong pharmaceutical research background with analytics to solve real-world healthcare and business problems.
+
+## 🚀 About Me
+
+- 🎓 M.Pharm Research Scholar at IIT (BHU), Varanasi
+- 💊 Strong domain knowledge in Pharmaceutical Sciences, Pharmacognosy, and Drug Research
+- 📊 Passionate about Data Analytics and Business Intelligence
+- 💻 Skilled in SQL (SQL Server & MySQL) from Basic to Advanced
+- 📈 Proficient in Microsoft Power BI for data visualization and dashboard development
+- 🧹 Experience with data cleaning, querying, reporting, and business insights
+- 💼 Interested in Healthcare Analytics, Pharma Analytics, Clinical Data, and Business Intelligence
+- 🚀 Knowledge of Venture Capital, Startups, and Innovation Ecosystems
+- 🌱 Always learning new technologies and improving analytical skills
+
+## 🛠️ Technical Skills
+
+**Languages & Databases**
+- SQL Server
+- MySQL
+
+**Analytics & Visualization**
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+
+**Domain Knowledge**
+- Pharmaceutical Research
+- Regulatory Affairs
+- Healthcare & Pharma Analytics
+- Clinical Research
+- Formulation & Development
+
+## 🎯 Current Focus
+
+- Building real-world SQL projects
+- Developing interactive Power BI dashboards
+- Strengthening Business Analytics skills
+- Exploring Healthcare and Pharma Analytics
+- Contributing to open-source and analytics projects
+
+## 🤝 Open to Opportunities
+
+I am actively seeking **Internships**, **Trainee**, **Associate**, and **Entry-Level** opportunities in:
+
+- Data Analytics
+- Business Intelligence
+- Healthcare Analytics
+- Pharma Analytics
+- SQL Developer
+- Power BI Developer
+
+I'm excited to learn, grow, and contribute to impactful projects while collaborating with talented professionals.
+
+## 🌐 Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/anuj-choudhary-552117321
+- 📧 Email: anujchoudhary883@gmail.com
+- 🐙 GitHub: https://github.com/AnujChoudhary21
+
+
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, or reach out for exciting opportunities
