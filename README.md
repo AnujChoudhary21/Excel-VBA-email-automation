@@ -140,7 +140,7 @@ excel-vba-email-automation/
 ```
 📸 Screenshots
 Customer Data
-![Excel Customer Data](screenshots/excel-customer-data.png)
+<img width="1066" height="54" alt="image" src="https://github.com/user-attachments/assets/3d12f3d0-183c-47ce-aeb6-82671995ef2f" />
 Generated PDFs
 ![Generated PDFs](screenshots/generated-pdfs.png)
 PDF Path Mapping
