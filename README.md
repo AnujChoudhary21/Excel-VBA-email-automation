@@ -141,8 +141,10 @@ excel-vba-email-automation/
 📸 Screenshots
 Customer Data
 <img width="1066" height="54" alt="image" src="https://github.com/user-attachments/assets/3d12f3d0-183c-47ce-aeb6-82671995ef2f" />
+
 Generated PDFs
-![Generated PDFs](screenshots/generated-pdfs.png)
+<img width="884" height="345" alt="image" src="https://github.com/user-attachments/assets/3d92d0f3-476c-4f64-9689-6ac0ad148b21" />
+
 PDF Path Mapping
 ![PDF Path Mapping](screenshots/pdf-path-mapping.png)
 Email Preview
