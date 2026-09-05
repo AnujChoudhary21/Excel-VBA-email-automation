@@ -152,7 +152,8 @@ Email Preview
 <img width="1439" height="1093" alt="image" src="https://github.com/user-attachments/assets/90d35797-3f9d-42b0-9b13-7386f642c052" />
 
 Excel Ribbon Automation
-![Excel Ribbon Automation](screenshots/excel-ribbon-automation.png)
+<img width="1462" height="180" alt="image" src="https://github.com/user-attachments/assets/570f012d-f180-4033-a160-ee58207980a4" />
+
 ▶️ How to Use
 Prepare the Excel data using the required headers.
 Run the PDF-generation macro and select the Word template.
@@ -220,9 +221,11 @@ user's computer.
 Macros may require appropriate Excel macro/security settings.
 Always review generated emails before sending them in a real-world
 workflow.
+
 👤 Author
 Anuj Choudhary
 AI-Assisted Excel & VBA Automation Project
+
 ⭐ Project Purpose
 A practical demonstration of how AI-assisted development can be 
 combined with Excel VBA to automate a real-world administrative
