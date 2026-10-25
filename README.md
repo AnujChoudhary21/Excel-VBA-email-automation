@@ -250,7 +250,7 @@ I am passionate about **Data Analytics, Business Intelligence, and Data-Driven D
 - 💻 Skilled in SQL (SQL Server & MySQL) from Basic to Advanced
 - 📈 Proficient in Microsoft Power BI for data visualization and dashboard development
 - 🧹 Experience with data cleaning, querying, reporting, and business insights
-- 💼 Interested in Healthcare Analytics, Pharma Analytics, Clinical Data, and Business Intelligence
+- 💼 Interested in Healthcare Analytics, Pharma Analytics, Data Analytics, and Business Intelligence
 - 🚀 Knowledge of Venture Capital, Startups, and Innovation Ecosystems
 - 🌱 Always learning new technologies and improving analytical skills
 
@@ -259,9 +259,11 @@ I am passionate about **Data Analytics, Business Intelligence, and Data-Driven D
 **Languages & Databases**
 - SQL Server
 - MySQL
+- Python
 
 **Analytics & Visualization**
 - Power BI
+- Advanced Excel
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
@@ -276,7 +278,7 @@ I am passionate about **Data Analytics, Business Intelligence, and Data-Driven D
 
 ## 🎯 Current Focus
 
-- Building real-world SQL projects
+- Building real-world SQL and Python projects
 - Developing interactive Power BI dashboards
 - Strengthening Business Analytics skills
 - Exploring Healthcare and Pharma Analytics
